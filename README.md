@@ -3,6 +3,7 @@ A HTML based DnD Charcter Sheet to be used with a browser. Because PDF forms suc
 
 This is a DnD character sheet made in HTML to be directly run locally from the player's computer. The HTML form auto saves to local storage so that the data persists across multiple reloads/launches of the web browser. (Making a new charcter every time would defeat the purpose and would give PDF form believers a leg to stand on.)
 
+
 **Spellcasting is currently under development - The attacks, actions and weapons section can be used for spellcasting, but it is significantly more cumbersome**
 
 ## Features ##
@@ -24,8 +25,9 @@ This is a DnD character sheet made in HTML to be directly run locally from the p
 ## Usage ##
 Simply right click on the character_sheet.html and click open with > (your favourite browser here)
 
-**Credit for codebase goes to : https://codepen.io/evertras/full/YVVeMd/ 
-This project was built upon this.**
-
 ## License ##
-MIT 
+[MIT](https://github.com/vibhav1011/DnD-html-sheet/blob/main/LICENSE) 
+
+--------------------------------------------------------------------------------------------------------
+*Credit for codebase goes to : https://codepen.io/evertras/full/YVVeMd/   This project was build upon this.
+
