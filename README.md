@@ -24,5 +24,8 @@ This is a DnD character sheet made in HTML to be directly run locally from the p
 ## Usage ##
 Simply right click on the character_sheet.html and click open with > (your favourite browser here)
 
+**Credit for codebase goes to : https://codepen.io/evertras/full/YVVeMd/ 
+This project was built upon this.**
+
 ## License ##
 MIT 
