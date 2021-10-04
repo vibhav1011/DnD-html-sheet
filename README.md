@@ -12,10 +12,11 @@ This is a DnD character sheet made in HTML to be directly run locally from the p
 3. Checkboxes that work like a charm every time.
 4. Display those pesky numbers after the + in the skills and saving throws while not obscuring the label. (whaaat?)
 
-## Upcoming Features (in order of development)##
+## Upcoming Features (in order of development)
 1. Spellcasting table - A full, dedicated spellcasting section to keep all your spells neatly at the end.
 2. A DnDBeyond-esque die roller (but significantly less fancy, albeit functional).
-3. A page popup of sorts to dnd wikidot for quick refernces for levelups and such.
+3. Dark Mode (!! suck it PDF Sheets)
+4. A page popup of sorts to dnd wikidot for quick refernces for levelups and such.
 
 ## Insallation/ Setup ##
 1. Download this repo.
