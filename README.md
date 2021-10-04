@@ -1,4 +1,4 @@
-# DnD-html-sheet #
+# DnD -  HTML character sheet #
 A HTML based DnD Charcter Sheet to be used with a browser. Because PDF forms suck.
 
 This is a DnD character sheet made in HTML to be directly run locally from the player's computer. The HTML form auto saves to local storage so that the data persists across multiple reloads/launches of the web browser. (Making a new charcter every time would defeat the purpose and would give PDF form believers a leg to stand on.)
