@@ -18,7 +18,7 @@ This is a DnD character sheet made in HTML to be directly run locally from the p
 3. Dark Mode (!! suck it PDF Sheets)
 4. A page popup of sorts to dnd wikidot for quick refernces for levelups and such.
 
-## Insallation/ Setup ##
+## Installation/ Setup ##
 1. Download this repo.
 2. Extract the .zip file to a directory of your choice.
 3. Et voila!
